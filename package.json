@@ -1,0 +1,13 @@
+{
+  "name": "dune-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "0xarthurxyz <46296830+0xarthurxyz@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
